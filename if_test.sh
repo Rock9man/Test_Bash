@@ -6,6 +6,7 @@
 
 echo
 
+set -x
 echo "Testing \"0\""
 if [ 0 ]	#zero
 then
@@ -13,6 +14,8 @@ then
 else
 	echo "0 is false."
 fi		#0 为真
+
+set +x
 
 echo
 
