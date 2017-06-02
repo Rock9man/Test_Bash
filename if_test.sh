@@ -56,3 +56,26 @@ then
 else
 	echo "Random string is false."
 fi 		# 随便的字符串
+
+echo "0 == 0"
+if [ 0 == 0 ];then
+	echo "0 == 0 is true."
+else
+	echo "0 == 0 is false."
+fi
+
+echo "0 != 0"
+
+if [ 0 != 0 ];then
+	echo "0 != 0 is true."
+else
+	echo "0 != 0 is false."
+fi
+
+echo "1 != 0"
+
+if [ 1 != 0 ];then
+	echo "1 != 0 is true."
+else
+	echo "1 != 0 is false."
+fi
