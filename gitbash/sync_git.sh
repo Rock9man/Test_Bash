@@ -1,9 +1,12 @@
 #!/bin/bash
 
 function git_push() {
-	git add --all
-	git commit -m "[biuld][wangjun4] vendorsetup.sh to vendorsetup.sh.tmp " 
-	git push MerbokO HEAD
+#	git checkout Leepi_MTK_RC3
+#	git branch -D iAuto_Android_POC
+#	git checkout iAuto_Android_POC
+#	git cherry-pick Leepi_MTK_RC3
+
+	git push aosp HEAD:refs/for/iAuto_Android_POC
 }
 function read_dir(){
 	cd $1
