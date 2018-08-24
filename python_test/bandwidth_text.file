@@ -1,0 +1,241 @@
+******************** membw 1 ******************
+----------------------------------
+Total bandwidth is 545 MB/s
+----------------------------------
+Port bandwidth:
+Port 0: 68 MB/s, Port 1:        66 MB/s
+Port 2: 0 MB/s, Port 5: 392 MB/s
+----------------------------------
+Port latency:
+Port 0: 41 T,  Port 1:  40 T 
+Port 2: 0 T,  Port 3:   0 T 
+Port 4: 5 T,  Port 5:   14T 
+Port 6: 0 T,  Port 7: 0 T 
+time use : 0.1 s 
+----------------------------------
+Total bandwidth is 1084 MB/s
+----------------------------------
+Port bandwidth:
+Port 0: 199 MB/s, Port 1:       193 MB/s
+Port 6: 0 MB/s, Port 7: 0 MB/s
+----------------------------------
+Port latency:
+Port 0: 44 T,  Port 1:  43 T 
+Port 2: 0 T,  Port 3:   0 T 
+Port 4: 5 T,  Port 5:   32T 
+Port 6: 0 T,  Port 7: 0 T 
+time use : 0.1 s 
+----------------------------------
+Total bandwidth is 1134 MB/s
+----------------------------------
+Port bandwidth:
+Port 2: 0 MB/s, Port 5: 741 MB/s
+Port 6: 0 MB/s, Port 7: 0 MB/s
+----------------------------------
+Port latency:
+Port 0: 49 T,  Port 1:  49 T 
+Port 2: 0 T,  Port 3:   0 T 
+Port 4: 5 T,  Port 5:   35T 
+Port 6: 0 T,  Port 7: 0 T 
+time use : 0.1 s 
+----------------------------------
+Total bandwidth is 842 MB/s
+----------------------------------
+Port bandwidth:
+Port 0: 43 MB/s, Port 1:        41 MB/s
+Port 3: 17 MB/s, Port 4:        0 MB/s
+----------------------------------
+Port latency:
+Port 0: 43 T,  Port 1:  45 T 
+Port 2: 0 T,  Port 3:   0 T 
+Port 4: 5 T,  Port 5:   35T 
+Port 6: 0 T,  Port 7: 0 T 
+time use : 0.1 s 
+----------------------------------
+Total bandwidth is 609 MB/s
+----------------------------------
+Port bandwidth:
+Port 2: 0 MB/s, Port 3: 0 MB/s
+Port 4: 409 MB/s, Port 5:       0 MB/s
+----------------------------------
+Port latency:
+Port 0: 41 T,  Port 1:  41 T 
+Port 2: 0 T,  Port 3:   0 T 
+Port 4: 5 T,  Port 5:   14T 
+Port 6: 0 T,  Port 7: 0 T 
+time use : 0.1 s 
+----------------------------------
+Total bandwidth is 1527 MB/s
+----------------------------------
+Port bandwidth:
+Port 4: 17 MB/s, Port 5:        743 MB/s
+Port 6: 0 MB/s, Port 7: 0 MB/s
+----------------------------------
+Port latency:
+Port 0: 47 T,  Port 1:  46 T 
+Port 2: 0 T,  Port 3:   0 T 
+Port 4: 5 T,  Port 5:   35T 
+Port 6: 0 T,  Port 7: 0 T 
+
+
+******************** membw 1 ******************
+----------------------------------
+Total bandwidth is 977 MB/s
+----------------------------------
+Port bandwidth:
+Port 0: 107 MB/s, Port 1:       110 MB/s
+Port 2: 0 MB/s, Port 5: 742 MB/s
+----------------------------------
+Port latency:
+Port 0: 47 T,  Port 1:  47 T 
+Port 2: 0 T,  Port 3:   0 T 
+Port 4: 5 T,  Port 5:   35T 
+Port 6: 0 T,  Port 7: 0 T 
+time use : 0.1 s 
+----------------------------------
+Total bandwidth is 616 MB/s
+----------------------------------
+Port bandwidth:
+Port 0: 105 MB/s, Port 1:       102 MB/s
+Port 6: 0 MB/s, Port 7: 0 MB/s
+----------------------------------
+Port latency:
+Port 0: 45 T,  Port 1:  44 T 
+Port 2: 0 T,  Port 3:   0 T 
+Port 4: 5 T,  Port 5:   14T 
+Port 6: 0 T,  Port 7: 0 T 
+time use : 0.1 s 
+----------------------------------
+Total bandwidth is 1171 MB/s
+----------------------------------
+Port bandwidth:
+Port 2: 0 MB/s, Port 5: 740 MB/s
+Port 6: 0 MB/s, Port 7: 0 MB/s
+----------------------------------
+Port latency:
+Port 0: 44 T,  Port 1:  43 T 
+Port 2: 0 T,  Port 3:   0 T 
+Port 4: 5 T,  Port 5:   35T 
+Port 6: 0 T,  Port 7: 0 T 
+time use : 0.1 s 
+----------------------------------
+Total bandwidth is 1612 MB/s
+----------------------------------
+Port bandwidth:
+Port 0: 441 MB/s, Port 1:       423 MB/s
+Port 3: 3 MB/s, Port 4: 0 MB/s
+----------------------------------
+Port latency:
+Port 0: 47 T,  Port 1:  46 T 
+Port 2: 0 T,  Port 3:   0 T 
+Port 4: 5 T,  Port 5:   35T 
+Port 6: 18 T,  Port 7: 0 T 
+time use : 0.1 s 
+----------------------------------
+Total bandwidth is 927 MB/s
+----------------------------------
+Port bandwidth:
+Port 2: 0 MB/s, Port 3: 0 MB/s
+Port 4: 410 MB/s, Port 5:       0 MB/s
+----------------------------------
+Port latency:
+Port 0: 47 T,  Port 1:  46 T 
+Port 2: 0 T,  Port 3:   0 T 
+Port 4: 5 T,  Port 5:   14T 
+Port 6: 0 T,  Port 7: 0 T 
+time use : 0.1 s 
+----------------------------------
+Total bandwidth is 1827 MB/s
+----------------------------------
+Port bandwidth:
+Port 4: 22 MB/s, Port 5:        944 MB/s
+Port 6: 0 MB/s, Port 7: 0 MB/s
+----------------------------------
+Port latency:
+Port 0: 47 T,  Port 1:  46 T 
+Port 2: 0 T,  Port 3:   0 T 
+Port 4: 5 T,  Port 5:   35T 
+Port 6: 0 T,  Port 7: 0 T 
+time use : 0.1 s 
+
+******************** membw 1 ******************
+----------------------------------
+Total bandwidth is 1237 MB/s
+----------------------------------
+Port bandwidth:
+Port 0: 266 MB/s, Port 1:       256 MB/s
+Port 2: 0 MB/s, Port 5: 695 MB/s
+----------------------------------
+Port latency:
+Port 0: 44 T,  Port 1:  43 T 
+Port 2: 0 T,  Port 3:   0 T 
+Port 4: 5 T,  Port 5:   31T 
+Port 6: 0 T,  Port 7: 0 T 
+time use : 0.1 s 
+----------------------------------
+Total bandwidth is 1083 MB/s
+----------------------------------
+Port bandwidth:
+Port 0: 172 MB/s, Port 1:       167 MB/s
+Port 6: 0 MB/s, Port 7: 0 MB/s
+----------------------------------
+Port latency:
+Port 0: 48 T,  Port 1:  47 T 
+Port 2: 0 T,  Port 3:   0 T 
+Port 4: 0 T,  Port 5:   35T 
+Port 6: 0 T,  Port 7: 0 T 
+time use : 0.1 s 
+----------------------------------
+Total bandwidth is 537 MB/s
+----------------------------------
+Port bandwidth:
+Port 2: 0 MB/s, Port 5: 254 MB/s
+Port 6: 0 MB/s, Port 7: 0 MB/s
+----------------------------------
+Port latency:
+Port 0: 42 T,  Port 1:  41 T 
+Port 2: 0 T,  Port 3:   0 T 
+Port 4: 5 T,  Port 5:   24T 
+Port 6: 0 T,  Port 7: 0 T 
+time use : 0.1 s 
+----------------------------------
+Total bandwidth is 723 MB/s
+----------------------------------
+Port bandwidth:
+Port 0: 111 MB/s, Port 1:       104 MB/s
+Port 3: 17 MB/s, Port 4:        0 MB/s
+----------------------------------
+Port latency:
+Port 0: 45 T,  Port 1:  44 T 
+Port 2: 0 T,  Port 3:   0 T 
+Port 4: 5 T,  Port 5:   22T 
+Port 6: 0 T,  Port 7: 0 T 
+time use : 0.1 s 
+----------------------------------
+Total bandwidth is 1519 MB/s
+----------------------------------
+Port bandwidth:
+Port 2: 0 MB/s, Port 3: 0 MB/s
+Port 4: 759 MB/s, Port 5:       0 MB/s
+----------------------------------
+Port latency:
+Port 0: 47 T,  Port 1:  46 T 
+Port 2: 0 T,  Port 3:   0 T 
+Port 4: 5 T,  Port 5:   35T 
+Port 6: 0 T,  Port 7: 0 T 
+time use : 0.1 s 
+----------------------------------
+Total bandwidth is 1071 MB/s
+----------------------------------
+Port bandwidth:
+Port 4: 17 MB/s, Port 5:        742 MB/s
+Port 6: 0 MB/s, Port 7: 0 MB/s
+----------------------------------
+Port latency:
+Port 0: 47 T,  Port 1:  46 T 
+Port 2: 0 T,  Port 3:   0 T 
+Port 4: 5 T,  Port 5:   35T 
+Port 6: 0 T,  Port 7: 0 T 
+time use : 0.1 s 
+mt2712:/ # 
+
