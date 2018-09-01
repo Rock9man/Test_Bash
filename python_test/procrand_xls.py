@@ -24,10 +24,9 @@ def save_key_value(key_value_sheet):
 	global key_value
 	keys = key_value.keys()
 	keys.sort()
-	key_value = map(key_value.get, keys)
-	for number in range(0,len(key_value)):
-		print str(key_value[number])
-#		key_value_sheet.write( number,0,str(key_value[number][0]))
+	for number in range(0,len(keys)):
+	        key_value_sheet.write( number,0,str(keys[number]))
+        	key_value_sheet.write( number,1,str(key_value.get(keys[number])[0]))
 
 
 def function_line(line):
