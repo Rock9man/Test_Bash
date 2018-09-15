@@ -12,7 +12,7 @@ Head_list = ['name','max','min','average']
 
 cpuinfo_list = [ 0,0 ]
 
-keys = ['CPU0:','CPU1:','CPU2:','0:','1:','2:','3:','4:','5:','6:','7:','bandwidth','CPUfreq0','CPUfreq1','CPUfreq2','CPUTOTAL']
+keys = ['CPU0:','CPU1:','CPU2:','0:','1:','2:','3:','4:','5:','6:','7:','bandwidth','CPUfreq0','CPUfreq1','CPUfreq2','CPUTOTAL','CPU3:','CPU4:','CPU5:','CPUfreq3','CPUfreq4','CPUfreq5']
 
 def open_write_xls(output_file):
 	output_wbk = xlwt.Workbook(output_file)
@@ -61,8 +61,14 @@ def functions(inputdata):
 			cputotal=cputotal + (100-float(inputdata.split()[7][:-1]))
 		elif "CPU2" in inputdata:
 			cputotal=cputotal + (100-float(inputdata.split()[7][:-1]))
+		elif "CPU3" in inputdata:
+			cputotal=cputotal + (100-float(inputdata.split()[7][:-1]))
+		elif "CPU4" in inputdata:
+			cputotal=cputotal + (100-float(inputdata.split()[7][:-1]))
+		elif "CPU5" in inputdata:
+			cputotal=cputotal + (100-float(inputdata.split()[7][:-1]))
 			print cputotal
-			datamap.setdefault('CPUTOTAL',[]).append((cputotal/3))
+			datamap.setdefault('CPUTOTAL',[]).append((cputotal/6))
 	elif "max and min" in inputdata:
 		cpuinfo_list = [ 0,0 ]
 	elif "CPU 0 info" in inputdata:
@@ -71,6 +77,12 @@ def functions(inputdata):
 		cpuinfo_list = [ 1,16 ]
 	elif "CPU 2 info" in inputdata:
 		cpuinfo_list = [ 2,16 ]
+	elif "CPU 3 info" in inputdata:
+		cpuinfo_list = [ 3,16 ]
+	elif "CPU 4 info" in inputdata:
+		cpuinfo_list = [ 4,16 ]
+	elif "CPU 5 info" in inputdata:
+		cpuinfo_list = [ 5,16 ]
 	elif cpuinfo_list[1] > 0:
 		if cpuinfo_list[1]%4 == 3:
 			datamap.setdefault("CPUfreq"+str(cpuinfo_list[0]),[]).append(int(inputdata[:-5]))
