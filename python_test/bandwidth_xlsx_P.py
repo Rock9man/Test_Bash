@@ -85,6 +85,7 @@ def functions(inputdata):
 		cpuinfo_list = [ 5,16 ]
 	elif cpuinfo_list[1] > 0:
 		if cpuinfo_list[1]%4 == 3:
+			print inputdata
 			datamap.setdefault("CPUfreq"+str(cpuinfo_list[0]),[]).append(int(inputdata[:-5]))
 		cpuinfo_list[1] = cpuinfo_list[1] - 1
 

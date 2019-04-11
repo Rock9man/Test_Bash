@@ -1,0 +1,70 @@
+/home/wangjun4/project2/leepi_master/ivi/device/mediatek/mt2712/Leepi_14
+2532 12 2544
+  
+82 9 91
+  
+  
+3 0 3
+  
+3 2 5
+  
+  
+22 19 41
+  
+/home/wangjun4/project2/leepi_master
+/home/wangjun4/project2/leepi_master/ivi/device/mediatek/mt2712/Leepi_15
+4245 1 4246
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+/home/wangjun4/project2/leepi_master
+/home/wangjun4/project2/leepi_master/ivi/device/mediatek/mt2712/common
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+/home/wangjun4/project2/leepi_master
+/home/wangjun4/project2/leepi_master/device/mediatek/mt2712
+3578 3355 6933
+8 8 16
+53 50 103
+  
+  
+0 4 4
+  
+  
+165 6 171
+8 0 8
+10 7 17
+  
+/home/wangjun4/project2/leepi_master
+/home/wangjun4/project2/leepi_master/kernel-4.9
+7 6 13
+27197 1299 28496
+1426 65 1491
+267 18 285
+  
+  
+5668 214 5882
+244 5 249
+8350 30 8380
+339 13 352
+373 21 394
+  
+/home/wangjun4/project2/leepi_master
